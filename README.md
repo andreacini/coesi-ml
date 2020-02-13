@@ -1,4 +1,4 @@
-# COESI - Lab Machine Learning
+# COESI - Machine Learning Lab
 
 Esercizi per il corso di Machine Learning nell'ambito del progetto [COESI](http://coesi.inf.usi.ch/).
 
